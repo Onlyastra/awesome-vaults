@@ -435,3 +435,5 @@ Contributions are welcome and held to a high bar. Read [CONTRIBUTING.md](CONTRIB
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Released under [CC0 1.0](LICENSE).
+
+- [Chain.Love](https://github.com/Chain-Love/chain-love) — Open-source Web3 infrastructure database for RPCs, indexers, explorers, bridges, wallets and more across networks.
